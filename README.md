@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Eric0720&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ### Hi there 👋
-🌱 I’m currently learning Node 
+🌱 I’m currently learning ROS2 
 
 my blog:smile:: http://blog.eric7.site
 
