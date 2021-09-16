@@ -1,4 +1,7 @@
 ### Hi there 👋
+🌱 I’m currently learning Node 
+
+my blog:smile:: http://blog.eric7.site
 
 <!--
 **Eric0720/Eric0720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
